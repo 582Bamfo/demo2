@@ -1,5 +1,5 @@
  variable "ami" {
-    default = "ami-007855ac798b5175e"
+    default = "ami-0eb260c4d5475b901"
     type = string
     description = "ami for the new env"
  }
