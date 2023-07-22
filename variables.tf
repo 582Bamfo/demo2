@@ -10,5 +10,5 @@
 }
 
 variable "tag_name" {
-  default = "kwab"
+  default = "kwasib"
 }
