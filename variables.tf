@@ -10,5 +10,5 @@
 }
 
 variable "tag_name" {
-  default = "kwasi"
+  default = "kwas"
 }
